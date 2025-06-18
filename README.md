@@ -12,4 +12,4 @@ This is my first project where I use semantic HTML5 tags to compose a well struc
 
 ### Deploy
 
-* https://master.d1lfdk4t7k4j4g.amplifyapp.com/
+* https://master.d2dii6m6oe1816.amplifyapp.com/
